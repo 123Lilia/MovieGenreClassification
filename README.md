@@ -1,4 +1,4 @@
-      ECG Signal Classification Project
+ECG Signal Classification Project
 
     Overview
 
