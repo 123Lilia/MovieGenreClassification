@@ -1,10 +1,10 @@
 ECG Signal Classification Project
 
-  Overview
+     Overview
 
 This project focuses on classifying ECG signals using a combination of signal processing techniques and machine learning models. The goal is to accurately differentiate between different types of heartbeats based on the provided ECG data.
 
-  Project Structure
+     Project Structure
 
 data/: Contains the ECG datasets used for training and testing.
 models/: Stores the trained machine learning models.
@@ -22,7 +22,7 @@ scikit-learn
 TensorFlow
 PyWavelets
 
-  Data Preparation
+     Data Preparation
 
 Loading the Data: The ECG data is loaded from the data/ directory.
 Preprocessing: The data is preprocessed to handle missing values, and labels are standardized.
@@ -36,7 +36,7 @@ Long Short-Term Memory (LSTM)
 Bidirectional LSTM (BiLSTM)
 Each model is evaluated on the test data, and accuracy and classification reports are generated.
 
-  How to Run
+     How to Run
 
 Prepare the environment:
 Ensure all dependencies are installed.
